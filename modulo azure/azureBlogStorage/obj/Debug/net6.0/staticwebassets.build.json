@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "R9UyRV0KwlobyW0CllT20uZsas0aQI6hXKNdLS+Nwqk=",
+  "Source": "azureBlogStorage",
+  "BasePath": "_content/azureBlogStorage",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "Nome_Produto": "Caderno",
+    "Preco": 23.00,
+    "DataVenda": "2022-08-11T01:48:43.4627772+01:00"
+  },
+  {
+    "Id": 1,
+    "Nome_Produto": "Lapis",
+    "Preco": 3.00,
+    "DataVenda": "2022-08-11T01:48:43.4627772+01:00"
+  }
+]
